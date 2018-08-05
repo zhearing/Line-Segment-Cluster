@@ -1,0 +1,4 @@
+/usr/local/clion-2017.3.4/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/zyzhong/git/line-segment-cluster
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zyzhong/git/line-segment-cluster/cmake-build-debug
