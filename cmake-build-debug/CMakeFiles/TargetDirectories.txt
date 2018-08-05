@@ -1,3 +1,0 @@
-/home/zyzhong/git/line-segment-cluster/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/zyzhong/git/line-segment-cluster/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/zyzhong/git/line-segment-cluster/cmake-build-debug/CMakeFiles/line_segment_cluster.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/line_segment_cluster.dir/main.cpp.o  -o line_segment_cluster 
