@@ -172,7 +172,7 @@ Eigen::Vector3d ptProj2Line(const Eigen::Vector3d P, const Eigen::Vector3d dir,
 
 // local cluster frags to groups that all represent the same line segment
 std::vector<std::list<int> > localCluster(const std::vector<std::pair<Eigen::Vector3d, Eigen::Vector3d>> lines,
-                                          double distTrd = 0.1, double angleTrd = 0.01)
+                                          double distTrd = 0.1, double angleTrd = 0.z1)
 {
     // get relation edge matrix A
     int num_lines = lines.size();
