@@ -2,7 +2,8 @@ cmake_minimum_required(VERSION 3.9)
 project(laser_line_cluster)
 
 set(CMAKE_CXX_STANDARD 11)
+SET(CMAKE_CXX_FLAGS_DEBUG "-g")
+SET(CMAKE_BUILD_TYPE RELEASE)
 
-add_executable(laser_line_cluster
-        lines.txt
-        main.cpp clustering.h)
+ADD_SUBDIRECTORY(inc)
+ADD_SUBDIRECTORY(apps)
