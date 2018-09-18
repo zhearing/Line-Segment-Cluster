@@ -421,4 +421,3 @@ class CCluster {
 };
 
 #endif  // INC_CLUSTERING_HPP_
-
