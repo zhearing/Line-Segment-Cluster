@@ -3,7 +3,7 @@
 // Author: Zeyu Zhong
 // Date: 2018.9.2
 
-#include "../inc/Clustering.hpp"
+#include "../src/Clustering.hpp"
 #include <fstream>
 #include <sstream>
 
